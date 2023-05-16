@@ -1,0 +1,54 @@
+                                  Mission - Hands-on Two (Form in HTML)
+
+1. Name Filed
+2. Email Field
+3. Phone Number
+4. Password Field
+5. Language (Radio Button)
+    A. React
+    B. Angular
+    C. Vue
+6. Course (Checkbox)
+    A. MERN - MongoDB Express ReactJS NodeJS
+    B. MEAN - MongoDB Express AngularJS NodeJS
+    C. MEVN - MongoDB Express VueJS NodeJS
+7. Field (Drop Down)
+    A. FrontEnd Developer
+    B. BackEnd Developer
+    C. Full stack Developer
+8. text area
+9. Submit Button
+
+Importent Point
+- Input -> Attributes 
+    1. Type - what is the type of your input tag.
+    2. placeholder - they are going to display a message in input area.
+    3. id - we are going to use id for to connect our label.
+    4. Value - return default value and this is a optioanl attributes
+    5. name - use to assign a proper name to your tag. (username = )
+    6. required - neccessary to fill this input field
+    7. autocomplete - to avoid the suggestion.
+
+- For comments use CTRL + /
+
+Password Validation - 
+- pattern="(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{8,}"
+1. contains at least one digit (\d)
+2. contains at least one lowercase letter ([a-z])
+3. contains at least one uppercase letter ([A-Z])
+4. is at least 8 characters long (.{8,})
+
+
+-- How to create a Table in HTML
+
+- table - 
+- thead - Head of the table
+- tbody - Body of the table
+- tr - Table Row
+- th - Table Header
+- td - Table Data
+
+-- Attributes 
+- border
+- colspan
+- rowspan

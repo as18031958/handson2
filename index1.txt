@@ -1,0 +1,13 @@
+There are Five steps to deploy your project on GitHub
+
+1. git init (Use only one while you are create a new project)
+2. git add .
+3. git commit -m 'Deploy Message'
+4. git remote add origin 'Repo url'/'repo' (Use only one while you are create a new project)
+5. git push origin master
+
+// There are three step to update your repo
+
+
+-- Repo URL (create a Repo)
+-- Host URL ()
